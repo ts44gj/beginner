@@ -1,4 +1,4 @@
-var table = document.getElementById('aaaaa');{
+var table = document.getElementById('kuku');{
     document.write("<table>");
 
  for(let i = 1 ; i < 10 ; i++) {
